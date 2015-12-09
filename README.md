@@ -1,6 +1,8 @@
 # Hasshhh
 Generate numbers starting from a string as seed.
 
+Please note, using the same seed the result will always be the same.
+
 # Example
 Generate an RGBa color
 
